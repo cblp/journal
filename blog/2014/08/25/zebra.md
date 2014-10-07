@@ -1,5 +1,4 @@
 Title: Zebra puzzle
-Date: 2014-08-25 12:07
 Tags: bitbucket, haskell, programming
 
 I recently wrote a nice Haskell
